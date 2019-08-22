@@ -1,0 +1,15 @@
+.centro {
+    width:200px;
+    height:100px;
+    margin: 2px;
+    left: 200px;
+}
+
+.imagen {
+    display: inline-block;
+    width: 40%;
+    vertical-align: middle;
+}
+.imagen img{
+    width: 100%;
+}
